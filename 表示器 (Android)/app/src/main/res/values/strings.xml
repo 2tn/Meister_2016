@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meister16_Display</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB2ntaIrqCYFTVdldJ-ITa80xfoBM1Z0QI</string>
+</resources>
