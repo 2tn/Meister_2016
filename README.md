@@ -1,6 +1,8 @@
 # Meister_2016
 2016年度Meister鳥人間プロジェクトに搭載した飛行ロガー、「われのロガー3」のプログラム及び発注基板データ。
 
+![dsc02678](https://user-images.githubusercontent.com/24986065/39954639-5ccbca66-55fd-11e8-9a2a-938ebb376df8.JPG)
+
 搭載したパーツは
 - LPC11U35FHI33 (メインマイコン)
 - MPU9250 (9軸センサー)
